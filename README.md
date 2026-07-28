@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Poseidon994/DSAPLeet/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0142-linked-list-cycle-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Poseidon994/DSAPLeet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Poseidon994/DSAPLeet/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Poseidon994/DSAPLeet/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poseidon994/DSAPLeet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Poseidon994/DSAPLeet/tree/master/0844-backspace-string-compare) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Poseidon994/DSAPLeet/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Poseidon994/DSAPLeet/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
