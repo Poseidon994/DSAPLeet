@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Poseidon994/DSAPLeet/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poseidon994/DSAPLeet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0713-subarray-product-less-than-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Poseidon994/DSAPLeet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Poseidon994/DSAPLeet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poseidon994/DSAPLeet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0713-subarray-product-less-than-k) |
 ## Linked List
@@ -71,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Poseidon994/DSAPLeet/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Poseidon994/DSAPLeet/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Poseidon994/DSAPLeet/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Poseidon994/DSAPLeet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -104,5 +109,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
