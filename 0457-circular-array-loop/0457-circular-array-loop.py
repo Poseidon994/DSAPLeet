@@ -10,20 +10,18 @@ class Solution(object):
         
         for i in range(n):
             if nums[i] == 0:
-                continue  # already proven invalid, skip
+                continue  
             
             slow, fast = i, i
-            visited = []  # track every node touched in this attempt
+            visited = [] 
             
             while True:
-                # --- move slow one step ---
                 prev_slow = slow
                 slow = next_index(slow)
                 visited.append(prev_slow)
                 if not is_same_direction(prev_slow, slow):
                     break
                 
-                # --- move fast two steps, checking BOTH hops ---
                 mid = next_index(fast)
                 visited.append(fast)
                 if not is_same_direction(fast, mid):
@@ -35,15 +33,12 @@ class Solution(object):
                     break
                 
                 fast = new_fast
-                
-                # --- check for cycle ---
                 if slow == fast:
                     if slow == next_index(slow):
-                        break  # self-loop (length 1) — invalid
+                        break  
                     else:
-                        return True  # real cycle found
+                        return True 
             
-            # this attempt failed — mark every node visited as dead
             for node in visited:
                 nums[node] = 0
         
