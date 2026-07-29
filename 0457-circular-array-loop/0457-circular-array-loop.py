@@ -3,34 +3,48 @@ class Solution(object):
         n = len(nums)
         
         def next_index(i):
-            return ((i+nums[i])%n+n)%n
-            pass
+            return ((i + nums[i]) % n + n) % n
         
         def is_same_direction(i, j):
-            return True if (nums[i]>0 and nums[j]>0) or (nums[i]<0 and nums[j]<0) else False
-            pass
+            return (nums[i] > 0 and nums[j] > 0) or (nums[i] < 0 and nums[j] < 0)
         
         for i in range(n):
             if nums[i] == 0:
-                continue  # already marked invalid
+                continue  # already proven invalid, skip
             
             slow, fast = i, i
+            visited = []  # track every node touched in this attempt
             
             while True:
+                # --- move slow one step ---
+                prev_slow = slow
+                slow = next_index(slow)
+                visited.append(prev_slow)
+                if not is_same_direction(prev_slow, slow):
+                    break
                 
-                slow=next_index(slow)
-                if  not is_same_direction(slow, next_index(slow)):
-                    nums[slow]=0
+                # --- move fast two steps, checking BOTH hops ---
+                mid = next_index(fast)
+                visited.append(fast)
+                if not is_same_direction(fast, mid):
                     break
-                fast=next_index(next_index(fast))
-                if not is_same_direction(fast,next_index(fast)) or not is_same_direction(next_index(fast),next_index(next_index(fast))):
-                    nums[fast]=0
+                
+                new_fast = next_index(mid)
+                visited.append(mid)
+                if not is_same_direction(mid, new_fast):
                     break
+                
+                fast = new_fast
+                
+                # --- check for cycle ---
                 if slow == fast:
-                    break  
+                    if slow == next_index(slow):
+                        break  # self-loop (length 1) — invalid
+                    else:
+                        return True  # real cycle found
             
-           
-            if slow==fast and fast!=next_index(slow):
-                return True
+            # this attempt failed — mark every node visited as dead
+            for node in visited:
+                nums[node] = 0
         
         return False
