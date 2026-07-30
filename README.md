@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Poseidon994/DSAPLeet/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Poseidon994/DSAPLeet/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Poseidon994/DSAPLeet/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Poseidon994/DSAPLeet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2706-buy-two-chocolates](https://github.com/Poseidon994/DSAPLeet/tree/master/2706-buy-two-chocolates) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Poseidon994/DSAPLeet/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Poseidon994/DSAPLeet/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Poseidon994/DSAPLeet/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Poseidon994/DSAPLeet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Poseidon994/DSAPLeet/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Poseidon994/DSAPLeet/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
