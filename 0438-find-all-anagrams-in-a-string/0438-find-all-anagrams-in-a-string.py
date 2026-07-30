@@ -21,11 +21,10 @@ class Solution(object):
                 res.append(low)
             
             if high==(low+len(p)-1):
-                    
-                    if s[low] in have and have[s[low]]==needed.get(s[low],0):
+                if s[low] in have and have[s[low]]==needed.get(s[low],0):
                         formed-=1
-                    have[s[low]]-=1
-                    low+=1    
+                have[s[low]]-=1
+                low+=1         
             high+=1
         return res
         
