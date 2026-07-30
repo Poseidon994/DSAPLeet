@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poseidon994/DSAPLeet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Poseidon994/DSAPLeet/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Poseidon994/DSAPLeet/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Poseidon994/DSAPLeet/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Poseidon994/DSAPLeet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poseidon994/DSAPLeet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Poseidon994/DSAPLeet/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Poseidon994/DSAPLeet/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0202-happy-number) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poseidon994/DSAPLeet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Poseidon994/DSAPLeet/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Poseidon994/DSAPLeet/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0713-subarray-product-less-than-k) |
