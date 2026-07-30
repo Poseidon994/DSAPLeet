@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Poseidon994/DSAPLeet/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Poseidon994/DSAPLeet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Poseidon994/DSAPLeet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Poseidon994/DSAPLeet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Poseidon994/DSAPLeet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Poseidon994/DSAPLeet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2706-buy-two-chocolates](https://github.com/Poseidon994/DSAPLeet/tree/master/2706-buy-two-chocolates) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Poseidon994/DSAPLeet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
