@@ -7,17 +7,12 @@ class Solution(object):
         have=dict()
         for i in s:
             have[i]=have.get(i,0)+1
-        odd= False
-        res=0
-        for char,val in have.items():
-            if val%2==0:
-                res+=val
-            else:
-                odd=True
-        if not odd:
-            return res
+        res = 0
+        odd = False
         for char, val in have.items():
-            if val%2==1:
-                res+=val-1
-        return res+1
-        
+            if val % 2 == 0:
+                res += val
+            else:
+                res += val - 1
+                odd = True
+        return res + 1 if odd else res
