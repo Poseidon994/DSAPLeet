@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poseidon994/DSAPLeet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Poseidon994/DSAPLeet/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Poseidon994/DSAPLeet/tree/master/0076-minimum-window-substring) |
+| [0383-ransom-note](https://github.com/Poseidon994/DSAPLeet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poseidon994/DSAPLeet/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Poseidon994/DSAPLeet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Poseidon994/DSAPLeet/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Poseidon994/DSAPLeet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poseidon994/DSAPLeet/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Poseidon994/DSAPLeet/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Poseidon994/DSAPLeet/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Poseidon994/DSAPLeet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poseidon994/DSAPLeet/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Poseidon994/DSAPLeet/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
