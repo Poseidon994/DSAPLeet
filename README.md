@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poseidon994/DSAPLeet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Poseidon994/DSAPLeet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Poseidon994/DSAPLeet/tree/master/0457-circular-array-loop) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Poseidon994/DSAPLeet/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0713-subarray-product-less-than-k) |
