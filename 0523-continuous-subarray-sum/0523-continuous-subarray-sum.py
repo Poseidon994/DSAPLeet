@@ -14,7 +14,6 @@ class Solution(object):
             rem=Sum%k
             if rem<0:
                 rem=rem+k
-            res+=f.get(rem,0)
             if rem in f:
                 if i-f[rem]>=2:
                     return True
