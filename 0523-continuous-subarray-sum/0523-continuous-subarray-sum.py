@@ -15,8 +15,9 @@ class Solution(object):
             if rem<0:
                 rem=rem+k
             res+=f.get(rem,0)
-            if rem in f and i-f[rem]>=2:
-                return True
-            if rem not in f:
+            if rem in f:
+                if i-f[rem]>=2:
+                    return True
+            else:
                 f[rem]=f.get(rem,i)
         return False
