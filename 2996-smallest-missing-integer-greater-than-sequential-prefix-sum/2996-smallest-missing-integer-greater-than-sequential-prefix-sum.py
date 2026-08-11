@@ -11,11 +11,9 @@ class Solution(object):
                 idx=i
             else:
                 break
-        if Sum not in nums:
-            return Sum
-        else:
-            numset=set(nums)
-            for i in range(len(nums)):
-                if Sum+i+1 not in numset:
-                    return Sum+i+1
-            return 
+      
+        num_set = set(nums)
+        candidate = Sum
+        while candidate in num_set:
+            candidate += 1
+        return candidate
