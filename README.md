@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Poseidon994/DSAPLeet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2706-buy-two-chocolates](https://github.com/Poseidon994/DSAPLeet/tree/master/2706-buy-two-chocolates) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Poseidon994/DSAPLeet/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Poseidon994/DSAPLeet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Poseidon994/DSAPLeet/tree/master/0977-squares-of-a-sorted-array) |
 | [2706-buy-two-chocolates](https://github.com/Poseidon994/DSAPLeet/tree/master/2706-buy-two-chocolates) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
