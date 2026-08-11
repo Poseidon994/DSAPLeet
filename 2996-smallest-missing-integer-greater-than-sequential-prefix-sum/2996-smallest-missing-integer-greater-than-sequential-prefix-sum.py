@@ -14,8 +14,8 @@ class Solution(object):
         if Sum not in nums:
             return Sum
         else:
-            res=float('inf')
+            numset=set(nums)
             for i in range(len(nums)):
-                if Sum+i+1 not in nums:
+                if Sum+i+1 not in numset:
                     return Sum+i+1
             return 
