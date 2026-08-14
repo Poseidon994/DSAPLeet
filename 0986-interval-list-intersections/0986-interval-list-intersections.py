@@ -12,16 +12,20 @@ class Solution(object):
             end1=firstList[i][1]
             start2=secondList[j][0]
             end2=secondList[j][1]
-            if start1<=start2:
-                if end1>=start2:
-                    s=max(start1,start2)
-                    e=min(end1,end2)
-                    res.append([s,e])
-            else:
-                if end2>=start1:
-                    s=max(start1,start2)
-                    e=min(end1,end2)
-                    res.append([s,e])
+            # if start1<=start2:
+            #     if end1>=start2:
+            #         s=max(start1,start2)
+            #         e=min(end1,end2)
+            #         res.append([s,e])
+            # else:
+            #     if end2>=start1:
+            #         s=max(start1,start2)
+            #         e=min(end1,end2)
+            #         res.append([s,e])
+            s = max(start1, start2)
+            e = min(end1, end2)
+            if s <= e:
+                res.append([s, e])
             if end1<end2:
                 i+=1
             else:
