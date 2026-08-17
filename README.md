@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Poseidon994/DSAPLeet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Poseidon994/DSAPLeet/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0071-simplify-path](https://github.com/Poseidon994/DSAPLeet/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Poseidon994/DSAPLeet/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Poseidon994/DSAPLeet/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Poseidon994/DSAPLeet/tree/master/0387-first-unique-character-in-a-string) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Poseidon994/DSAPLeet/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Poseidon994/DSAPLeet/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Poseidon994/DSAPLeet/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Poseidon994/DSAPLeet/tree/master/0496-next-greater-element-i) |
