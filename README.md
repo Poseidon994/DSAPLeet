@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0523-continuous-subarray-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Poseidon994/DSAPLeet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Poseidon994/DSAPLeet/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Poseidon994/DSAPLeet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
