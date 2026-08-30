@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Poseidon994/DSAPLeet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Poseidon994/DSAPLeet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Poseidon994/DSAPLeet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/Poseidon994/DSAPLeet/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Poseidon994/DSAPLeet/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Poseidon994/DSAPLeet/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Poseidon994/DSAPLeet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/Poseidon994/DSAPLeet/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Poseidon994/DSAPLeet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
