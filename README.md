@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Poseidon994/DSAPLeet/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Poseidon994/DSAPLeet/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Poseidon994/DSAPLeet/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2706-buy-two-chocolates](https://github.com/Poseidon994/DSAPLeet/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Poseidon994/DSAPLeet/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Poseidon994/DSAPLeet/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Poseidon994/DSAPLeet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Poseidon994/DSAPLeet/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Linked List
 |  |
 | ------- |
