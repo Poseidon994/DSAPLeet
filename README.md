@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Poseidon994/DSAPLeet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Poseidon994/DSAPLeet/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Poseidon994/DSAPLeet/tree/master/0496-next-greater-element-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Poseidon994/DSAPLeet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Poseidon994/DSAPLeet/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0713-subarray-product-less-than-k) |
