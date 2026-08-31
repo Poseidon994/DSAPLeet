@@ -1,21 +1,18 @@
 class Solution:
     def hIndex(self, citations: List[int]) -> int:
-        def helper_func(citations:List[int],h:int,n:int)->bool:
-            count=0
-            for i in range(n):
-                if citations[i]>=h:
-                    count+=1
-                if count==h:
-                    return True
-            return False
-        low,high=1,min(max(citations),len(citations))
+        low,high=0,len(citations)-1
         res=0
         n=len(citations)
+        if n==1:
+            if citations[0]:
+                return 1
+            else:
+                return 0
         while low<=high:
             guess=(low+high)//2
-            if helper_func(citations,guess,n):  
-                res=guess
-                low=guess+1
-            else:
+            if n-guess<=citations[guess]: 
+                res=n-guess
                 high=guess-1
+            else:
+                low=guess+1
         return res
