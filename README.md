@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Poseidon994/DSAPLeet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/Poseidon994/DSAPLeet/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Poseidon994/DSAPLeet/tree/master/0496-next-greater-element-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Poseidon994/DSAPLeet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Poseidon994/DSAPLeet/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0713-subarray-product-less-than-k) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Poseidon994/DSAPLeet/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Poseidon994/DSAPLeet/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Poseidon994/DSAPLeet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Poseidon994/DSAPLeet/tree/master/0977-squares-of-a-sorted-array) |
 | [2706-buy-two-chocolates](https://github.com/Poseidon994/DSAPLeet/tree/master/2706-buy-two-chocolates) |
@@ -329,4 +332,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Poseidon994/DSAPLeet/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Poseidon994/DSAPLeet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Poseidon994/DSAPLeet/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
