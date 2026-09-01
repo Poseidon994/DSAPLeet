@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/Poseidon994/DSAPLeet/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/Poseidon994/DSAPLeet/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0503-next-greater-element-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Poseidon994/DSAPLeet/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Poseidon994/DSAPLeet/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Poseidon994/DSAPLeet/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Poseidon994/DSAPLeet/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Poseidon994/DSAPLeet/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Poseidon994/DSAPLeet/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Poseidon994/DSAPLeet/tree/master/0560-subarray-sum-equals-k) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Poseidon994/DSAPLeet/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Poseidon994/DSAPLeet/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Poseidon994/DSAPLeet/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/Poseidon994/DSAPLeet/tree/master/2706-buy-two-chocolates) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Poseidon994/DSAPLeet/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Poseidon994/DSAPLeet/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Poseidon994/DSAPLeet/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
